@@ -17,10 +17,4 @@
     <PackageReference Include="coverlet.collector" Version="3.2.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="GridPowerConsumption.API.Tests\Controller\" />
-    <Folder Include="GridPowerConsumption.Application.Tests\" />
-    <Folder Include="GridPowerConsumption.Data.Tests\Repositories\" />
-  </ItemGroup>
-
 </Project>
